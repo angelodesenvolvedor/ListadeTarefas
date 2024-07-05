@@ -51,8 +51,5 @@ Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICEN
 
 ## 👷 Autor
 
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
+* **Angelo Silvano** - *Função realizada* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
-## Sobre o Curso
-
-Este projeto faz parte do curso **Front-end em React** oferecido pela **Ada Tech**.
