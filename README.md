@@ -43,7 +43,7 @@ O **Lista de Tarefas** é um projeto desenvolvido como parte do curso **Front-en
 
 ## Exemplo de Uso
 
-![Exemplo de Uso](exemplo-de-uso.png) <!-- Adicione uma captura de tela ou remoção desse trecho caso não tenha uma imagem -->
+<img width="182" alt="image" src="https://github.com/angelodesenvolvedor/ListadeTarefas/assets/98216100/15a04835-f145-40e6-ba1c-61c4d70a1ccf">
 
 ## 📄 Licença
 
