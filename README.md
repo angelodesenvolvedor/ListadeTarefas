@@ -1,23 +1,23 @@
 # Lista de Tarefas
 
-## Descrição
+## 🔥 Introdução
 
 O **Lista de Tarefas** é um projeto desenvolvido como parte do curso **Front-end em React** na **Ada Tech**. Este aplicativo simples permite gerenciar suas tarefas diárias, incluindo a adição, marcação como concluída e remoção de tarefas. As tarefas são armazenadas no **localStorage** do navegador para garantir que suas tarefas sejam persistentes entre sessões.
 
-## Funcionalidades
+## ✅Funcionalidades
 
 - Adicionar novas tarefas
 - Marcar tarefas como concluídas e desmarcá-las
 - Remover tarefas da lista
 - As tarefas são salvas no localStorage e carregadas ao abrir a página
 
-## Tecnologias Usadas
+## 💻Tecnologias Usadas
 
 - **HTML**: Estrutura básica do aplicativo
 - **CSS**: Estilização do layout e dos componentes
 - **JavaScript**: Funcionalidade interativa e manipulação do localStorage
 
-## Como Usar
+## ⚙️ Pré-requisitos
 
 1. **Clone o repositório**:
     ```bash
@@ -28,33 +28,30 @@ O **Lista de Tarefas** é um projeto desenvolvido como parte do curso **Front-en
     ```bash
     cd nome-do-repositorio
     ```
+## 🔨 Guia de instalação
 
-3. **Abra o arquivo `index.html` em seu navegador**.
+1. **Abra o arquivo `index.html` em seu navegador**.
 
-4. **Adicione novas tarefas**:
+2. **Adicione novas tarefas**:
     - Digite uma tarefa no campo de texto e clique em "Adicionar".
 
-5. **Marque as tarefas como concluídas**:
+3. **Marque as tarefas como concluídas**:
     - Clique na caixa de seleção ao lado da tarefa.
 
-6. **Remova tarefas**:
+4. **Remova tarefas**:
     - Clique no botão "Remover" ao lado da tarefa.
 
 ## Exemplo de Uso
 
 ![Exemplo de Uso](exemplo-de-uso.png) <!-- Adicione uma captura de tela ou remoção desse trecho caso não tenha uma imagem -->
 
-## Contribuição
+## 📄 Licença
 
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um **issue** ou um **pull request**!
+Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
 
-## Licença
+## 👷 Autor
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-## Autor
-
-[Seu Nome](https://github.com/seu-usuario) 
+* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
 
 ## Sobre o Curso
 
