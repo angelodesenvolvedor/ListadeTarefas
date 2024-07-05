@@ -47,9 +47,9 @@ O **Lista de Tarefas** é um projeto desenvolvido como parte do curso **Front-en
 
 ## 📄 Licença
 
-Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
+* Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
 
 ## 👷 Autor
 
-* **Angelo Silvano** - *Função realizada* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
