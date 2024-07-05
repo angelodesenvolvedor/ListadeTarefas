@@ -21,12 +21,12 @@ O **Lista de Tarefas** é um projeto desenvolvido como parte do curso **Front-en
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/angelodesenvolvedor/nome-do-repositorio.git
+    git clone https://github.com/angelodesenvolvedor/ListadeTarefas.git
     ```
 
 2. **Navegue até o diretório do projeto**:
     ```bash
-    cd nome-do-repositorio
+    cd ListadeTarefas
     ```
 ## 🔨 Guia de instalação
 
