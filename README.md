@@ -47,7 +47,7 @@ O **Lista de Tarefas** é um projeto desenvolvido como parte do curso **Front-en
 
 ## 📄 Licença
 
-* Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
+* Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/ListadeTarefas/tree/main?tab=MIT-1-ov-file).
 
 ## 👷 Autor
 
